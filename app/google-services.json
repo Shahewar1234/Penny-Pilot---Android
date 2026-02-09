@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680337542782",
+    "project_id": "penny-pilot-c92d9",
+    "storage_bucket": "penny-pilot-c92d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680337542782:android:f5a2219f2a618bb8de122f",
+        "android_client_info": {
+          "package_name": "com.example.pennypilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680337542782-5krs07ceu2q5jg6pphrr3dta63efh7pi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pennypilot",
+            "certificate_hash": "af463615c4e2214a6afa881a54476a3d779538d5"
+          }
+        },
+        {
+          "client_id": "680337542782-vhv9qeqh9ucmjhkbfd596fs503ns5ms2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-daASvaaSwuDCCWFUe5AiDL5mcSuQ5E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680337542782-vhv9qeqh9ucmjhkbfd596fs503ns5ms2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
